@@ -46,6 +46,3 @@ I believe in continuous learning through hands-on projects and structured progra
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=Arjun-333&icon=0&color=0)
