@@ -28,7 +28,7 @@ I enjoy transforming ideas into impactful products through hands-on development,
 
 - 🎖️ UiPath Student Developer Champion (SDC)
 - 🎓 Vice Chair, IEEE Computer Society Student Branch
-- 🏅 Participant – Matrix Fusion National-Level AI & ML Hackathon
+- 🏅 Runner-up – Matrix Fusion National-Level AI & ML Hackathon
 - 📈 SGPA: **9.05** | CGPA: **8.81**
 - 🤝 Active contributor to technical communities and student initiatives
 
