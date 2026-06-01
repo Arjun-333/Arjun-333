@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Arjun R</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Full-Stack Developer | AI Enthusiast
+Computer Science Engineering Student | AI & Full-Stack Developer 
 </h3>
 
 <p align="center">
