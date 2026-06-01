@@ -42,6 +42,12 @@ I enjoy transforming ideas into impactful products through hands-on development,
 
 ---
 
+## 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arjun-portfolio-jet.vercel.app/)
+
+---
+
 ##  What I'm Working On
 
 - Multi-Agent AI Systems
